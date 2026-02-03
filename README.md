@@ -19,14 +19,14 @@ A lightweight web-based HTML editor built with PHP and CodeMirror, featuring liv
 - Writable autosave/ directory
 
 ## Directory Structure
-.
-├── index.php
+```├── index.php
 ├── api.php
 ├── autosave/
 │   └── .gitkeep
 ├── README.md
 ├── LICENSE
 └── .gitignore
+```
 
 ## Installation
 1 Upload all files to a PHP-enabled server
